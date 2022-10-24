@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Jashanpreet Kaur</h1>
 <h3 align="center">I am studying Computer Programming and It's fun to program. I am so passionate for creating software and websites that will make the world astonished by my creativity. I want to build an app which would be the best in the world.</h3>
 <img src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="animated image" />
